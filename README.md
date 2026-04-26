@@ -25,18 +25,16 @@ I build **AI-powered workflows and tools** that solve real product and delivery 
 ## 🛠️ Featured Projects
 
 ### 1. AI Sprint Planner
-
 👉 Converts raw requirements → structured sprint plan
 
 * Uses LLM for story breakdown
 * Outputs Jira-ready tasks
 
-### 2. Risk Prediction Engine
+### 2. Jira-Checker-Plus-Plugin
+👉 A Chrome/Edge browser extension that validates Jira issues and highlights missing or inconsistent information with red flags.
 
-👉 Predicts project risks from historical patterns
-
-* Uses simple ML + rule engine
-* Dashboard for risk scoring
+* Uses Jira APIs + validation rule engine
+* Dashboard showcases analytics of enhancements/improvements plugin provides
 
 ---
 
